@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "josh_batch@live.com.au",
+    "longName": "Unix_Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_23",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Unix_Time",
+    "uuid": "5e034d8f-fc3a-46a2-bf62-531d00f08fd5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
